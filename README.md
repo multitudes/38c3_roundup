@@ -19,8 +19,12 @@ https://halfnarp.events.ccc.de/
 stacksmashing has its own youtube channel. The airtag video has a few million views.  
 https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw
 
-### Anja Lehmann, Thomas Lohninger
+### Anja Lehmann, Thomas Lohninger, Raquel Renno Nunes 
+EU's Digital Identity Systems :  
 https://fahrplan.events.ccc.de/congress/2024/fahrplan/speaker/ULFQKZ/  
 https://fahrplan.events.ccc.de/congress/2024/fahrplan/talk/QR7CRG/  
-https://fahrplan.events.ccc.de/congress/2024/fahrplan/speaker/UX9KST/  
+https://fahrplan.events.ccc.de/congress/2024/fahrplan/speaker/UX9KST/
+Net neutrality:  
+https://fahrplan.events.ccc.de/congress/2024/fahrplan/talk/UZXTXJ/
+https://fahrplan.events.ccc.de/congress/2024/fahrplan/speaker/EHYBMZ/
 

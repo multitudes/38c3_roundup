@@ -17,7 +17,8 @@ https://halfnarp.events.ccc.de/
 
 ### stacksmashing - Hacking into Apple new usb-c controller
 stacksmashing has its own youtube channel. The airtag video has a few million views.  
-https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw
+https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw  
+https://fahrplan.events.ccc.de/congress/2024/fahrplan/talk/RUBQ88/  
 
 ### Anja Lehmann, Thomas Lohninger, Raquel Renno Nunes 
 EU's Digital Identity Systems :  

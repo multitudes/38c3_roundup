@@ -33,8 +33,8 @@ https://fahrplan.events.ccc.de/congress/2024/fahrplan/speaker/EHYBMZ/
 
 ### Alisa Esage - Unveiling the Mysteries of Qualcomm’s QDSP6 JTAG 
 http://re.alisa.sh/  
+https://fahrplan.events.ccc.de/congress/2024/fahrplan/talk/BZGGNE/  
 https://en.wikipedia.org/wiki/Alisa_Esage  
 https://zerodayengineering.com/research/pwn2own-2021-vm-escape.html  
 https://youtu.be/6UhgLteN-PU?si=58zvbDQlei3Sh743  
-
 

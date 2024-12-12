@@ -1,5 +1,5 @@
 # 38c3_roundup
-A collection of interesting links about the 38c3 congress in Hamburg.  
+A collection of interesting links about the 38c3 congress in Hamburg.  What to expect and something to research for people not invited to the conference.  
 https://events.ccc.de/congress/2024/infos/index.html  
 
 There is so much to discover on the page of the ccc.  
@@ -37,4 +37,17 @@ https://fahrplan.events.ccc.de/congress/2024/fahrplan/talk/BZGGNE/
 https://en.wikipedia.org/wiki/Alisa_Esage  
 https://zerodayengineering.com/research/pwn2own-2021-vm-escape.html  
 https://youtu.be/6UhgLteN-PU?si=58zvbDQlei3Sh743  
+
+### Desiring Technology. Über Porno, Abhängigkeit und Fortschritt
+Arne Vogelgesang
+gooning!
+https://vogelgesang.internil.net/
+
+### High energy physics aside the Large Hadron Collider
+Christian Wessel and flavour factories
+https://www.researchgate.net/profile/Christian-Wessel-2
+
+### Vectors, Pixels, Plotters and Public Participation
+Niklas Roy a.k.a. royrobotiks
+https://www.niklasroy.com/#menuTop
 

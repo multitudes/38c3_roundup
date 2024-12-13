@@ -51,3 +51,11 @@ https://www.researchgate.net/profile/Christian-Wessel-2
 Niklas Roy a.k.a. royrobotiks
 https://www.niklasroy.com/#menuTop
 
+### Hacker's Guide to Meshtastic: Off-Grid, Encrypted LoRa Meshnets for Cheap!
+Kody Kinzie  
+https://www.varonis.com/blog/author/kkinzie  
+https://www.varonis.com/blog/how-to-use-wireshark  
+https://www.youtube.com/watch?v=O7RFnuR5u_g  
+https://events.ccc.de/congress/2024/hub/en/event/hacker-s-guide-to-meshtastic-off-grid-encrypted-lora-meshnets-for-cheap/  
+https://events.ccc.de/congress/2024/hub/en/user/speaker_fd0edb55-5de2-513a-8855-3a1f03148de8/  
+
